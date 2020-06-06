@@ -1,0 +1,14 @@
+{
+  "name": "gkhtmltopdf",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Rodrigo Almeida <sherman@geekie.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-aws-lambda": "^3.0.0",
+    "puppeteer-core": "^3.0.0"
+  },
+  "devDependencies": {
+    "puppeteer": "3.0.0"
+  }
+}
